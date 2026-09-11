@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgriSmart.API/AgriSmart.API.csproj" Id="7ab3a70f-2ac5-4134-be0b-7d3e75cd665d" />
+  <Project Path="AgriSmart.Application/AgriSmart.Application.csproj" Id="5340a6d0-591d-47ee-8c50-70e579db7f64" />
+  <Project Path="AgriSmart.Domain/AgriSmart.Domain.csproj" Id="f405801d-4d34-4e7a-9394-8079e8a79466" />
+  <Project Path="AgriSmart.Infrastructure/AgriSmart.Infrastructure.csproj" Id="0f716565-6e6a-4ddb-a191-aabb43cbebc1" />
+</Solution>
